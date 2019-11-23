@@ -5,6 +5,13 @@
   background: #000;
 }
 
-.motto{
-color: grey;
+.motto {
+  color: grey;
+}
+
+.visible {
+  display: block;
+}
+.invisible {
+  display: hidden !important;
 }
